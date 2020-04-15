@@ -1,0 +1,14 @@
+body {
+    background-color: gainsboro;
+}
+
+.header {
+    background-color: white;
+}
+
+.card-body {
+    border: 1px solid black;
+    width: 297px;
+    background-color: white;
+}
+
